@@ -19,7 +19,7 @@ Click the button below to fork the repository and get your own copy:
 ---
 ## ⚙️ GET YOUR SESSION
 
-[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://inconnu-boy-tech-web.onrender.com)
+[![PAIR CODE](https://img.shields.io/badge/GET%20SESSION_ID-Generate%20Now-4CAF50?style=for-the-badge&logo=whatsapp)](https://isagi-bllod-tech-web.onrender.com)
 
 ---
 ## ⌛ WHATSAPP CHANNEL SUPPORT 
